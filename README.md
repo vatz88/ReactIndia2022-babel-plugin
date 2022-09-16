@@ -34,6 +34,4 @@ npx babel tests/sample.js --plugins=./src/no-console-statements.js
 
 ## Resources
 
-1. https://prettier.io/docs/en/plugins.html#developing-plugins
-
-1. https://github.com/prettier/prettier/blob/main/commands.md
+1. https://github.com/jamiebuilds/babel-handbook/blob/master/translations/en/plugin-handbook.md
