@@ -21,7 +21,7 @@ git checkout 99f2344e2d2323c6a48d15ed1b0411f32c45d2e8
 - no-console-statement babel plugin
 
 ```sh
-git checkout 99f2344e2d2323c6a48d15ed1b0411f32c45d2e8
+git checkout eac9afd1c7ffc67023d134884b3f42b154766765
 ```
 
 ## Command
