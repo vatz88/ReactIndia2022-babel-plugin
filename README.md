@@ -15,7 +15,13 @@ npm install
 - Initial setup
 
 ```sh
-git checkout TODO
+git checkout 99f2344e2d2323c6a48d15ed1b0411f32c45d2e8
+```
+
+- no-console-statement babel plugin
+
+```sh
+git checkout 99f2344e2d2323c6a48d15ed1b0411f32c45d2e8
 ```
 
 ## Command
