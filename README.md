@@ -15,7 +15,13 @@ npm install
 - Initial setup
 
 ```sh
-git checkout TODO
+git checkout 99f2344e2d2323c6a48d15ed1b0411f32c45d2e8
+```
+
+- no-console-statement babel plugin
+
+```sh
+git checkout eac9afd1c7ffc67023d134884b3f42b154766765
 ```
 
 ## Command
@@ -28,6 +34,4 @@ npx babel tests/sample.js --plugins=./src/no-console-statements.js
 
 ## Resources
 
-1. https://prettier.io/docs/en/plugins.html#developing-plugins
-
-1. https://github.com/prettier/prettier/blob/main/commands.md
+1. https://github.com/jamiebuilds/babel-handbook/blob/master/translations/en/plugin-handbook.md
